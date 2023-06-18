@@ -6,7 +6,7 @@ st.set_page_config(layout="wide")
 col1,col2=st.columns(2)  #.columns(n) will create n column objects
 
 with col1: #opens the column space
-    st.image("images/photo.png")
+    st.image("images/coco_and_shubham.jpg")
 
 with col2:
     st.title("Shubham Mahajan")
