@@ -1,6 +1,6 @@
 # What is this project?
-This is a webapp to showcase python webdev
-it includes creating multipage web page and webforms using 
-steamlit
+This is a webapp to showcase the python projects I have worked on thus far.
+
+This website was created using streamlit library of python
 
 ### ~Shubham
