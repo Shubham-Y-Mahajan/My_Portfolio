@@ -6,7 +6,7 @@ st.set_page_config(layout="wide")
 col1,col2=st.columns(2)  #.columns(n) will create n column objects
 
 with col1: #opens the column space
-    st.image("images/coco_and_shubham.jpg")
+    st.image("images/shubham.png")
 
 with col2:
     st.title("Shubham Mahajan")
@@ -16,7 +16,9 @@ with col2:
     Django , Flask and streamlit for web development.\n
     PyQt6 , PySimpleGui - Desktop App development\n
     
-    Basic Machine Learning ,Natural Language processing and image processing(opencv)
+    Basic Machine Learning ,Natural Language processing and image processing(opencv)\n
+    
+    I have also worked on PHP projects.
     
     
      """
