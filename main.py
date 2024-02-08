@@ -13,9 +13,10 @@ with col2:
     content = """ Hello, I am Shubham Mahajan from Thane West (Maharashtra) a 2nd year BTech student of IIT Bhilai, 
     pursuing Computer Science and Engineering .
     \n I am proficient in Python programming, my skills include-\n 
-    Django , Flask and streamlit for web development.\n
+    Django ,Django REST framework, Flask and streamlit for web development.\n
     PyQt6 , PySimpleGui - Desktop App development\n
-    
+    Basic Cloud Computing\n
+    SQLite,MySQL- Database Management.\n
     Basic Machine Learning ,Natural Language processing and image processing(opencv)\n
     
     I have also worked on PHP projects.
