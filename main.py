@@ -34,13 +34,13 @@ col3,empty_col, col4 =st.columns([1.5,0.5,1.5]) #if you provide a list it will t
 df=pandas.read_csv("data.csv", sep=";")
 
 with col3:
-    for index, row in df[:8].iterrows(): #df[:10] on conisders first 10 rows
+    for index, row in df[:9].iterrows(): #df[:10] on conisders first 10 rows
         st.header(row["title"])
         st.write(row["description"])
         st.image("images/"+row["image"]) # images directory me hasi isliye add kiya
         #st.write(f"[Source Code]({row['url']})")
 with col4:
-    for index, row in df[8:].iterrows():
+    for index, row in df[9:].iterrows():
         st.header(row["title"])
         st.write(row["description"])
         st.image("images/" + row["image"])  # images directory me hasi isliye add kiya
