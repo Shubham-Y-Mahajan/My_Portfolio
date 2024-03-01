@@ -5,11 +5,11 @@ Website for Catering Services;A PHP website made for a Catering Service provider
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://example.com;4.png
 Todo App;A distraction-free web app and desktop app to help you focus on creating and completing tasks.;https://example.com;1.png
 Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://example.com;2.png
-PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://example.com;3.png
-Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://example.com;6.png
 Canteen Software ; Inspired by the software used in IIT Bhilai Mess , the aim of this software is to manage the daily transactions of institute canteens. GUI used - PySimpleGUI;https://example.com;Canteen_Software.png
 TimeTable Generator Web App;A Django web app that lets student generate their semester time table in tabular pdf format , based on the courses they have chosen.;https://example.com;TT.png
 Inter IIT Tech meet Trumio Problem Statement ; Developed APIs using Django REST Framework for a special social media platform ; https://example.com ;Trumio.png
+PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://example.com;3.png
+Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://example.com;6.png
 Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://example.com;17.png
 Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://example.com;8.png
 Open Domain Chatbot;A chatbot built that can discuss anything with a human and is built using the ChatGPT API.;https://example.com;10.png
