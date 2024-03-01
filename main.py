@@ -33,6 +33,7 @@ col3,empty_col, col4 =st.columns([1.5,0.5,1.5]) #if you provide a list it will t
 
 df=pandas.read_csv("data.csv", sep=";")
 
+
 with col3:
     for index, row in df[:8].iterrows(): #df[:10] on conisders first 10 rows
         st.header(row["title"])
